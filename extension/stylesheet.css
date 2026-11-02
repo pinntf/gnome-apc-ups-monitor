@@ -1,0 +1,144 @@
+.apc-card {
+  width: 320px;
+  background-color: rgba(16, 22, 35, 0.92);
+  border: 1px solid rgba(140, 166, 200, 0.26);
+  border-radius: 18px;
+  padding: 16px 18px;
+  color: #f1f5fa;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+  spacing: 0;
+}
+
+.apc-title {
+  font-size: 13px;
+  font-weight: 800;
+  color: #b7d8ff;
+  padding-bottom: 8px;
+}
+
+.apc-host-block {
+  padding: 11px 0;
+  spacing: 8px;
+}
+
+.apc-host-separator {
+  border-top: 1px solid rgba(255,255,255,0.12);
+  margin: 12px 0;
+  padding-top: 24px;
+  
+}
+
+.apc-hostname {
+  font-size: 14px;
+  font-weight: bold;
+  color: #f1f5fa;
+}
+
+.apc-online {
+  color: #56dfa2;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.apc-offline {
+  color: #ff8787;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.apc-meter {
+  spacing: 5px;
+}
+
+.apc-load-meter {
+    padding-bottom: 12px;
+}
+
+
+.apc-metric-name,
+.apc-muted {
+  color: #9daec4;
+  font-size: 11px;
+}
+
+.apc-metric-value {
+  font-size: 11px;
+  font-weight: bold;
+  color: #f1f5fa;
+}
+
+.apc-track {
+  background-color: #314159;
+  border-radius: 4px;
+  height: 8px;
+}
+
+.apc-fill {
+  background-color: #55a9f8;
+  border-radius: 4px;
+  height: 8px;
+}
+
+.apc-fill-warning {
+  background-color: #f8b85b;
+  border-radius: 4px;
+  height: 8px;
+}
+
+.apc-fill-danger {
+  background-color: #fc6f76;
+  border-radius: 4px;
+  height: 8px;
+}
+
+.apc-footer {
+  font-size: 10px;
+  color: #8295ae;
+  padding-top: 8px;
+}
+
+.apc-error {
+  color: #ff8787;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.apc-temperature {
+  font-size: 11px;
+  font-weight: 600;
+
+}
+
+.apc-temperature-normal { color: #f1f5fa; }
+.apc-temperature-warning { color: #d5bd79; }
+.apc-temperature-critical { color: #f07474; }
+.apc-temperature-unknown { color: #95a2b4; }
+
+.apc-info-row {
+  spacing: 6px;
+}
+
+.apc-info-cell {
+  width: 126px;
+}
+
+.apc-health-ok {
+  color: #f1f5fa;
+  font-size: 11px;
+}
+
+.apc-health-warning {
+  color: #d5bd79;
+  font-size: 11px;
+}
+
+.apc-health-critical {
+  color: #f07474;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.apc-health-unknown {
+  color: #95a2b4;
+  font-size: 11px;
+}

@@ -1,0 +1,7 @@
+{
+  "uuid": "apc-ups-desktop-widget@local",
+  "name": "APC UPS Desktop Widget",
+  "description": "Multiple APC Smart-UPS units on GNOME desktop",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "version": 1
+}
